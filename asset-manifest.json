@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/Crio-Launch-Feb-2020-santiagoreha-r/static/css/main.5db1380d.chunk.css",
-    "main.js": "/Crio-Launch-Feb-2020-santiagoreha-r/static/js/main.c0f9f9cf.chunk.js",
-    "main.js.map": "/Crio-Launch-Feb-2020-santiagoreha-r/static/js/main.c0f9f9cf.chunk.js.map",
+    "main.js": "/Crio-Launch-Feb-2020-santiagoreha-r/static/js/main.9ce58039.chunk.js",
+    "main.js.map": "/Crio-Launch-Feb-2020-santiagoreha-r/static/js/main.9ce58039.chunk.js.map",
     "runtime-main.js": "/Crio-Launch-Feb-2020-santiagoreha-r/static/js/runtime-main.bf94b333.js",
     "runtime-main.js.map": "/Crio-Launch-Feb-2020-santiagoreha-r/static/js/runtime-main.bf94b333.js.map",
     "static/css/2.57ddf7ad.chunk.css": "/Crio-Launch-Feb-2020-santiagoreha-r/static/css/2.57ddf7ad.chunk.css",
-    "static/js/2.d3584ee7.chunk.js": "/Crio-Launch-Feb-2020-santiagoreha-r/static/js/2.d3584ee7.chunk.js",
-    "static/js/2.d3584ee7.chunk.js.map": "/Crio-Launch-Feb-2020-santiagoreha-r/static/js/2.d3584ee7.chunk.js.map",
+    "static/js/2.42b68d5c.chunk.js": "/Crio-Launch-Feb-2020-santiagoreha-r/static/js/2.42b68d5c.chunk.js",
+    "static/js/2.42b68d5c.chunk.js.map": "/Crio-Launch-Feb-2020-santiagoreha-r/static/js/2.42b68d5c.chunk.js.map",
     "index.html": "/Crio-Launch-Feb-2020-santiagoreha-r/index.html",
-    "precache-manifest.b7a6a8da1e75823cbfe9f09a534ac57b.js": "/Crio-Launch-Feb-2020-santiagoreha-r/precache-manifest.b7a6a8da1e75823cbfe9f09a534ac57b.js",
+    "precache-manifest.ac73ee43bbe0db672975be56d0b238e6.js": "/Crio-Launch-Feb-2020-santiagoreha-r/precache-manifest.ac73ee43bbe0db672975be56d0b238e6.js",
     "service-worker.js": "/Crio-Launch-Feb-2020-santiagoreha-r/service-worker.js",
     "static/css/2.57ddf7ad.chunk.css.map": "/Crio-Launch-Feb-2020-santiagoreha-r/static/css/2.57ddf7ad.chunk.css.map",
     "static/css/main.5db1380d.chunk.css.map": "/Crio-Launch-Feb-2020-santiagoreha-r/static/css/main.5db1380d.chunk.css.map",
-    "static/js/2.d3584ee7.chunk.js.LICENSE.txt": "/Crio-Launch-Feb-2020-santiagoreha-r/static/js/2.d3584ee7.chunk.js.LICENSE.txt",
+    "static/js/2.42b68d5c.chunk.js.LICENSE.txt": "/Crio-Launch-Feb-2020-santiagoreha-r/static/js/2.42b68d5c.chunk.js.LICENSE.txt",
     "static/media/crio-logo-white.svg": "/Crio-Launch-Feb-2020-santiagoreha-r/static/media/crio-logo-white.c9536e04.svg",
     "static/media/crio-logo.svg": "/Crio-Launch-Feb-2020-santiagoreha-r/static/media/crio-logo.63be71d0.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.bf94b333.js",
     "static/css/2.57ddf7ad.chunk.css",
-    "static/js/2.d3584ee7.chunk.js",
+    "static/js/2.42b68d5c.chunk.js",
     "static/css/main.5db1380d.chunk.css",
-    "static/js/main.c0f9f9cf.chunk.js"
+    "static/js/main.9ce58039.chunk.js"
   ]
 }

@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "48dbd514702ca0d6d76b48b6ebd14346",
+    "revision": "a7c7afb405ba99b8bf145197850f3506",
     "url": "/Crio-Launch-Feb-2020-santiagoreha-r/index.html"
   },
   {
-    "revision": "f25e716e7ecd63f75188",
+    "revision": "9cc0fb6033f24a27f13f",
     "url": "/Crio-Launch-Feb-2020-santiagoreha-r/static/css/2.57ddf7ad.chunk.css"
   },
   {
-    "revision": "8fdfbfb7fbb6681bdb78",
+    "revision": "6bb19724d770d0ccba29",
     "url": "/Crio-Launch-Feb-2020-santiagoreha-r/static/css/main.5db1380d.chunk.css"
   },
   {
-    "revision": "f25e716e7ecd63f75188",
-    "url": "/Crio-Launch-Feb-2020-santiagoreha-r/static/js/2.d3584ee7.chunk.js"
+    "revision": "9cc0fb6033f24a27f13f",
+    "url": "/Crio-Launch-Feb-2020-santiagoreha-r/static/js/2.42b68d5c.chunk.js"
   },
   {
     "revision": "d466ab9648f013dea081956fc7c904f3",
-    "url": "/Crio-Launch-Feb-2020-santiagoreha-r/static/js/2.d3584ee7.chunk.js.LICENSE.txt"
+    "url": "/Crio-Launch-Feb-2020-santiagoreha-r/static/js/2.42b68d5c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8fdfbfb7fbb6681bdb78",
-    "url": "/Crio-Launch-Feb-2020-santiagoreha-r/static/js/main.c0f9f9cf.chunk.js"
+    "revision": "6bb19724d770d0ccba29",
+    "url": "/Crio-Launch-Feb-2020-santiagoreha-r/static/js/main.9ce58039.chunk.js"
   },
   {
     "revision": "ca17b9b92db29dcf3c10",
